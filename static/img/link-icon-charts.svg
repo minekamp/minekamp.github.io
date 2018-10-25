@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="15px" viewBox="0 0 18 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>C243607B-F510-4DF7-9547-E2654747D7B9</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Explorer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tablet_Explorer768" transform="translate(-416.000000, -1594.000000)">
+            <g id="icon_graphic" transform="translate(416.000000, 1594.000000)">
+                <g id="Group-4">
+                    <path d="M2,7.5 L4,7.5 C5.1045695,7.5 6,8.3954305 6,9.5 L6,15 L0,15 L0,9.5 C-1.3527075e-16,8.3954305 0.8954305,7.5 2,7.5 Z" id="Rectangle-10" fill="#36EE05" style="mix-blend-mode: multiply;"></path>
+                    <path d="M8,0 L10,0 C11.1045695,-2.02906125e-16 12,0.8954305 12,2 L12,15 L6,15 L6,2 C6,0.8954305 6.8954305,2.02906125e-16 8,0 Z" id="Rectangle-10" fill="#FF6767"></path>
+                    <path d="M14,3.75 L16,3.75 C17.1045695,3.75 18,4.6454305 18,5.75 L18,15 L12,15 L12,5.75 C12,4.6454305 12.8954305,3.75 14,3.75 Z" id="Rectangle-10" fill="#26E0FF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

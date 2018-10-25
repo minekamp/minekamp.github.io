@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="20px" viewBox="0 0 40 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Ui-Kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Kit" transform="translate(-735.000000, -116.000000)" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(735.000000, 116.000000)">
+                <g id="telegram" fill="#000000">
+                    <path d="M4.81231688,11.588368 L7.29980469,18.663368 L10.5381775,14.9788195 L16.0905457,20 L20,-5.68434189e-14 L0,9.47847222 L4.81231688,11.588368 Z M14.2849731,5.73819444 L8.16329957,12.0911458 L7.40081789,15.3607639 L5.99227906,11.3534722 L14.2849731,5.73819444 Z" id="Shape"></path>
+                </g>
+                <g id="telegram" transform="translate(20.000000, 0.000000)" fill="#0A9BBE">
+                    <path d="M4.81231688,11.588368 L7.29980469,18.663368 L10.5381775,14.9788195 L16.0905457,20 L20,-5.68434189e-14 L0,9.47847222 L4.81231688,11.588368 Z M14.2849731,5.73819444 L8.16329957,12.0911458 L7.40081789,15.3607639 L5.99227906,11.3534722 L14.2849731,5.73819444 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="20px" viewBox="0 0 12 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Wallet-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_Wallet-Manager" transform="translate(-604.000000, -308.000000)" fill="#010101" fill-rule="nonzero">
+            <g id="Group-26" transform="translate(604.000000, 308.000000)">
+                <g id="Group-6">
+                    <g id="Group" opacity="0.45">
+                        <polygon id="Shape" points="0.0142016807 10.0825282 6.03571429 13.6726821 6.03571429 0"></polygon>
+                    </g>
+                    <g id="Group-5">
+                        <g id="Group" opacity="0.8" transform="translate(6.035714, 0.000000)">
+                            <polygon id="Shape" points="0 0 0 13.6726821 6.01914566 10.0825282"></polygon>
+                        </g>
+                        <g id="Group" opacity="0.45" transform="translate(0.000000, 11.226696)">
+                            <polygon id="Shape" points="0.0142016807 0.00716597595 6.03571429 8.56811857 6.03571429 3.59731992"></polygon>
+                        </g>
+                        <g id="Group" opacity="0.8" transform="translate(6.035714, 11.226696)">
+                            <polygon id="Shape" points="0 3.59731992 0 8.56811857 6.02387955 0.00716597595"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group" opacity="0.6" transform="translate(0.000000, 7.619048)">
+                    <polygon id="Shape" points="6.03571429 0.00998751561 0.0142016807 2.8988764 6.03571429 6.65168539 12.0548599 2.8988764"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

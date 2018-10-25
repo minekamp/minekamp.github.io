@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="19px" viewBox="0 0 16 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>neo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.23010105%" y1="85.602%" x2="74.7792945%" y2="33.113%" id="linearGradient-1">
+            <stop stop-color="#BEEA2E" offset="0%"></stop>
+            <stop stop-color="#52BA00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Wallet-Manager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_Wallet-Manager" transform="translate(-434.000000, -309.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="neo" transform="translate(434.000000, 309.000000)">
+                <path d="M0,3.610855 L6.33154878,6.619885 L6.33154878,19 L2.68715565e-16,15.99097 L0,3.610855 Z M9.58288719,0 L0.303965018,3.31493 L6.57878627,6.34296 L15.8289665,3.00903 L9.58288719,0 Z M9.41175914,5.664755 L9.41175914,13.239865 L16,15.81902 L16,3.285955 L9.41175914,5.664755 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

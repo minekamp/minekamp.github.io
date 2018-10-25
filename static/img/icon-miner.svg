@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="26px" viewBox="0 0 23 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>4F8EFE9F-C182-4543-B629-D93D61BD77FB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="2.35482124 0 20.9317443 0 20.9317443 3.57142857 2.35482124 3.57142857"></polygon>
+        <rect id="path-2" x="0" y="2.67857143" width="23" height="23.2142857" rx="3"></rect>
+        <ellipse id="path-3" cx="11.5622969" cy="14.3485915" rx="9.73076923" ry="9.82142857"></ellipse>
+        <ellipse id="path-4" cx="11.5" cy="14.2857143" rx="2.21153846" ry="2.23214286"></ellipse>
+    </defs>
+    <g id="Menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-441.000000, -252.000000)">
+            <g id="menu-copy-2" transform="translate(421.000000, 229.000000)">
+                <g id="miner_icon" transform="translate(20.000000, 23.000000)">
+                    <g id="Rectangle">
+                        <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <path stroke="#000000" stroke-width="1" d="M2.85482124,0.5 L2.85482124,3.07142857 L20.4317443,3.07142857 L20.4317443,0.5 L2.85482124,0.5 Z"></path>
+                    </g>
+                    <g id="Rectangle">
+                        <use fill="#FFBC79" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="3.17857143" width="22" height="22.2142857" rx="3"></rect>
+                    </g>
+                    <g id="Oval-3">
+                        <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <ellipse stroke="#000000" stroke-width="1" cx="11.5622969" cy="14.3485915" rx="9.23076923" ry="9.32142857"></ellipse>
+                    </g>
+                    <ellipse id="Oval-3" stroke="#000000" cx="11.5" cy="14.2857143" rx="6.57692308" ry="6.64285714"></ellipse>
+                    <ellipse id="Oval-3" stroke="#000000" cx="11.5" cy="14.2857143" rx="3.98076923" ry="4.01785714"></ellipse>
+                    <path d="M1.24010291,3.86047363 L21.8199369,24.7436523" id="Path-2" stroke="#000000"></path>
+                    <path d="M21.6145489,3.9200919 L1.30241042,24.5258876" id="Path-5" stroke="#000000"></path>
+                    <g id="Oval-3">
+                        <use fill="#F5F5F5" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        <ellipse stroke="#000000" stroke-width="1" cx="11.5" cy="14.2857143" rx="1.71153846" ry="1.73214286"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
