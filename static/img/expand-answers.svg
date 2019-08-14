@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>9869B36F-BAC5-472D-8035-E5FA2166CB73</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-110.3%" y="-110.3%" width="320.6%" height="320.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="4.29733456" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Faq" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile_FAQ_1-320-Copy" transform="translate(-100.000000, -269.000000)">
+            <g id="Group-3" transform="translate(0.000000, 120.000000)">
+                <g id="Group-Copy" transform="translate(32.000000, 130.000000)">
+                    <g id="expansion-button" transform="translate(73.000000, 23.000000)">
+                        <g id="Group-2">
+                            <circle id="Oval-Copy" fill-opacity="0.589999974" fill="#009DC3" filter="url(#filter-1)" cx="10.3783331" cy="10.5449998" r="5.84499979"></circle>
+                            <g id="button_send" fill="#FFFFFF">
+                                <circle id="Oval-Copy" cx="10.5" cy="10.5" r="10.5"></circle>
+                            </g>
+                        </g>
+                        <g id="down-arrow" transform="translate(10.500000, 11.000000) rotate(-360.000000) translate(-10.500000, -11.000000) translate(6.000000, 8.000000)" fill="#007D9E" fill-rule="nonzero">
+                            <path d="M8.90791402,0.115942029 C8.78386996,-0.038647343 8.58229837,-0.038647343 8.45825431,0.115942029 L4.50434991,5.0531401 L0.54269276,0.115942029 C0.418648701,-0.038647343 0.217077104,-0.038647343 0.0930330446,0.115942029 C-0.0310110149,0.270531401 -0.0310110149,0.52173913 0.0930330446,0.676328502 L4.2717673,5.88405797 C4.33378933,5.96135266 4.41131687,6 4.49659716,6 C4.57412469,6 4.65940498,5.96135266 4.72142701,5.88405797 L8.90016127,0.676328502 C9.03195808,0.52173913 9.03195808,0.270531401 8.90791402,0.115942029 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

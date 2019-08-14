@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="142px" viewBox="0 0 147 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>D213F484-03F0-4C3C-9B30-7DDA6795893A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="61.5949499%" y1="50.0403115%" x2="39.3278213%" y2="50.0403115%" id="linearGradient-1">
+            <stop stop-color="#BAF1FF" offset="0%"></stop>
+            <stop stop-color="#C9EEF6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-203.674547%" y1="63.9111368%" x2="171.919989%" y2="109.102949%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#9EE8FB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-203.674547%" y1="63.9111368%" x2="171.919989%" y2="109.102949%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#86DDE5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-17.1044301%" y1="83.5838328%" x2="171.919989%" y2="109.102949%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#9EE8FB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-11.2490258%" y1="88.786467%" x2="171.919989%" y2="109.102949%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#9EE8FB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="token" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_Token" transform="translate(-1060.000000, -1673.000000)">
+            <g id="Group-34" transform="translate(1060.000000, 1673.000000)">
+                <g id="Group-30" transform="translate(0.000000, 48.500000)">
+                    <path d="M145.316249,42.8094412 L135.570189,41.5117272 L84.3825511,11.6643051 C76.7606326,7.22696049 63.3910379,7.72930139 54.5612744,12.8364339 L7.33036969,40.1302897 C6.95552124,40.3395984 6.58067279,40.5907689 6.20582434,40.8000776 L1.42108547e-14,42.0140681 L1.42108547e-14,50.0515226 C0.0416498278,52.8143976 1.74929277,55.4516873 5.12292882,57.4191892 L60.9753479,89.9457628 C68.5972664,94.3831074 81.9668611,93.8807665 90.7966246,88.773634 L138.027529,61.4797782 C142.942209,58.6750415 145.441199,55.0330699 145.357899,51.5585453 L145.316249,42.8094412 Z" id="XMLID_2964_" fill="url(#linearGradient-1)"></path>
+                    <path d="M62.067426,81.3190377 L6.21500692,48.7924641 C-1.40691157,44.3551194 -0.448965529,36.6106972 8.38079796,31.5035646 L55.6117027,4.20970884 C64.4414662,-0.897423692 77.8110609,-1.44162634 85.4329794,3.03758006 L141.285398,35.5641536 C148.907317,40.0014983 147.949371,47.7459206 139.119607,52.8530531 L91.8887027,80.1469089 C83.0589392,85.2540414 69.6893445,85.7982441 62.067426,81.3190377 Z" id="XMLID_2963_" fill="#FFFFFF"></path>
+                </g>
+                <g id="Group-32" transform="translate(23.000000, 0.500000)">
+                    <path d="M1.57631597,90.9516082 L48.8007585,63.6672882 C51.2862555,62.1981325 54.3931267,62.1281727 56.9476652,63.387449 L103.205526,90.6018092 C105.345815,92.1409247 105.760064,95.2891155 103.41265,96.6883114 L56.5334157,123.832712 C54.0479188,125.301867 51.0100891,125.371827 48.5245922,124.112551 L2.2667318,96.9681506 C-0.702056254,95.2191557 -0.563973089,92.4207639 1.57631597,90.9516082 Z" id="XMLID_252_" fill="url(#linearGradient-2)" style="mix-blend-mode: multiply;"></path>
+                    <path d="M1.57631597,79.0981599 L48.8007585,51.8138399 C51.2862555,50.3446842 54.3931267,50.2747244 56.9476652,51.5340008 L103.205526,78.748361 C105.345815,80.2874764 105.760064,83.4356672 103.41265,84.8348631 L56.5334157,111.979264 C54.0479188,113.448419 51.0100891,113.518379 48.5245922,112.259103 L2.2667318,85.1147023 C-0.702056254,83.2957476 -0.563973089,80.4973558 1.57631597,79.0981599 Z" id="XMLID_253_" fill="url(#linearGradient-3)" style="mix-blend-mode: multiply;" opacity="0.50671968"></path>
+                    <g id="XMLID_361_" style="mix-blend-mode: multiply;" transform="translate(26.785714, 0.000000)">
+                        <g id="XMLID_369_">
+                            <g id="Group-29">
+                                <polygon id="XMLID_373_" fill="url(#linearGradient-4)" points="52.4426549 51.3410176 26.236876 0.180911762 26.236876 67.1109884"></polygon>
+                                <polygon id="XMLID_372_" fill="url(#linearGradient-5)" points="0.0310971667 51.3410176 26.236876 0.180911762 26.236876 67.1109884"></polygon>
+                                <polygon id="XMLID_371_" fill="url(#linearGradient-2)" points="52.4426549 51.2911521 26.236876 92.6661086 26.236876 66.9905328"></polygon>
+                                <polygon id="XMLID_370_" fill="url(#linearGradient-2)" points="0.0310971667 51.2911521 26.236876 92.6661086 26.236876 66.9905328"></polygon>
+                            </g>
+                        </g>
+                        <g id="XMLID_369_">
+                            <g id="Group-29">
+                                <polygon id="XMLID_373_" fill="url(#linearGradient-4)" points="52.4426549 51.3410176 26.236876 0.180911762 26.236876 67.1109884"></polygon>
+                                <polygon id="XMLID_372_" fill="url(#linearGradient-5)" points="0.0310971667 51.3410176 26.236876 0.180911762 26.236876 67.1109884"></polygon>
+                                <polygon id="XMLID_371_" fill="url(#linearGradient-2)" points="52.4426549 51.2911521 26.236876 92.6661086 26.236876 66.9905328"></polygon>
+                                <polygon id="XMLID_370_" fill="url(#linearGradient-2)" points="0.0310971667 51.2911521 26.236876 92.6661086 26.236876 66.9905328"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

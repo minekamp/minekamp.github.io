@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "coin" : {
+      "id" : 1,
+      "name" : "litecoin",
+      "caption" : "Litecoin"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 2,
+    "coin" : {
+      "id" : 1,
+      "name" : "verge",
+      "caption" : "Verge"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 3,
+    "coin" : {
+      "id" : 1,
+      "name" : "florin",
+      "caption" : "Florin"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 4,
+    "coin" : {
+      "id" : 1,
+      "name" : "gulden",
+      "caption" : "Gulden"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 5,
+    "coin" : {
+      "id" : 1,
+      "name" : "linx",
+      "caption" : "Linx"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 6,
+    "coin" : {
+      "id" : 1,
+      "name" : "game-credits",
+      "caption" : "GameCredits"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 7,
+    "coin" : {
+      "id" : 1,
+      "name" : "nicehash-scrypt",
+      "caption" : "NiceHash Scrypt"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 8,
+    "coin" : {
+      "id" : 1,
+      "name" : "aur-scrypt",
+      "caption" : "AUR-Scrypt"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 9,
+    "coin" : {
+      "id" : 1,
+      "name" : "ensteinium",
+      "caption" : "Ensteinium"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 10,
+    "coin" : {
+      "id" : 1,
+      "name" : "bata",
+      "caption" : "Bata"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  },
+  {
+    "id": 11,
+    "coin" : {
+      "id" : 1,
+      "name" : "dogecoin",
+      "caption" : "Dogecoin"
+    },
+    "holdings" : {
+      "value" : 0.21,
+      "price" : 40,
+      "currency": {
+        "symbol": "$",
+        "name" : "USD"
+      }
+    },
+    "networkFees" : -0.0009,
+    "wallet": "X1348BQZQZX1348BQZQZX1348BQZQZ"
+  }
+]

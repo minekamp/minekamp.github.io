@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="253px" viewBox="0 0 256 253" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>6FD9CE3B-6C8C-40BB-BE59-BBC8CF200408</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="172.994172%" y2="109.159825%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#05A9D3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-7.56300688%" y1="114.462817%" x2="18.2775586%" y2="-85.9819231%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#05A9D3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="token" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop_Token" transform="translate(-501.000000, -2171.000000)">
+            <g id="Group-10" transform="translate(501.000000, 2171.000000)">
+                <polygon id="Path-3" fill="url(#linearGradient-1)" points="0.740283127 253 59.5644952 140.217262 68.7849712 77.3136664 128.015654 0 158.130171 26.6353272 173.597466 55.2932301 196.295668 103.820802 210.21552 145.888769 255.740283 253"></polygon>
+                <polygon id="Path-3" fill="url(#linearGradient-1)" points="0.740283127 253 59.4310406 140.217262 68.630598 77.3136664 127.726904 0 157.7731 26.6353272 173.205304 55.2932301 195.852011 103.820802 209.740283 145.888769"></polygon>
+                <polygon id="Path-3" fill="url(#linearGradient-1)" points="59.7402831 140.324169 68.9209136 77.3726132 127.895637 0 157.880016 26.655635 173.280471 55.3353877 195.880584 103.899959 209.740283 146"></polygon>
+                <polygon id="Path-3" fill="url(#linearGradient-1)" points="59.7402831 140 68.9580931 77.1938715 128.171651 0 158.27746 26.5940567 173.740283 55.2075551"></polygon>
+                <polygon id="Path-3" fill="url(#linearGradient-2)" points="68.7402831 77 128.076928 0 158.245318 26.527266 173.740283 55.068902"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
